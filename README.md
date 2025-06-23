@@ -82,35 +82,3 @@ npm run build
 # or
 yarn build
 ```
-
-## Contributing
-Contributions are highly welcome! If you'd like to contribute, please follow these steps:
-1. Fork the repository.
-2. Create a new branch for your feature or fix:
-   ```bash
-   git checkout -b feature/your-feature-name
-   ```
-3. Commit your changes with a descriptive message:
-   ```bash
-   git commit -m "Add detailed explanation for feature XYZ"
-   ```
-4. Push your branch:
-   ```bash
-   git push origin feature/your-feature-name
-   ```
-5. Create a Pull Request detailing your changes.
-
-For guidelines on how to contribute, refer to [CONTRIBUTING.md](CONTRIBUTING.md).
-
-## License
-This project is licensed under the MIT License. For more details, see the [LICENSE](LICENSE) file.
-
-## Contact
-For any queries or further information, feel free to reach out:
-- GitHub: [Rudra1502](https://github.com/Rudra1502)
-- Email: your.email@example.com
-
-## Acknowledgements
-- Special thanks to the community and all open source contributors.
-- Thanks to [NewsAPI.org](https://newsapi.org/) for providing access to their news API.
-- Appreciation to the libraries and tools that have helped shape this project.
