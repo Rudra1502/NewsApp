@@ -9,10 +9,7 @@
 - [Getting Started](#getting-started)
 - [Configuration](#configuration)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-- [Acknowledgements](#acknowledgements)
+
 
 ## Overview
 NewsApp aggregates news from multiple sources providing real-time updates on headline news, category-specific articles, and trending topics. The application is designed with scalability and responsiveness in mind, ensuring optimal user experience on both desktop and mobile devices.
